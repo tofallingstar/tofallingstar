@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://github.com/tofallingstar/tofallingstar/assets/105491741/c128b31e-c283-4aab-96f2-84fc382b8dc3
 <!--
 **tofallingstar/tofallingstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
